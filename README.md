@@ -1,4 +1,4 @@
 ltp
 ===
 
-Learn to Program Book's Exercises
+Attempted solutions to exerices in the Learn to Program Book by Chris Pine.
